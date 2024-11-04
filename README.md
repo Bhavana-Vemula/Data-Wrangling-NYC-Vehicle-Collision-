@@ -7,4 +7,6 @@ The “NYC Vehicle Collisions” investigates the patterns of vehicle collisions
 
 https://bhavana-vemula.github.io/Data-Wrangling-NYC-Vehicle-Collision-/13_interactive.html#hotspots
 
+## Poster
+
 <img width="1090" alt="Poster_Group_13" src="https://github.com/user-attachments/assets/b3932b3f-f795-466e-b973-972e92bd631e">
